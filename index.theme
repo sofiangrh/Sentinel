@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sentinel
+Comment=Ubuntu Sentinel Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Sentinel
+MetacityTheme=Sentinel
+IconTheme=ubuntu-mono-light
+ButtonLayout=:minimize,maximize,close
